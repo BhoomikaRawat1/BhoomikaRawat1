@@ -8,7 +8,7 @@
     <a href="https://www.linkedin.com/in/bhoomi-rawat-a04b85301/" title="Direct to LinkedIn" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   </p>
-  <p float="left">
+  <p float="right">
   <a href="https://www.hackerrank.com/profile/bhumirawat643/" title="Direct to hackerrank" target="_blank">
      <img src="https://img.shields.io/badge/hackerrank-0077B5?style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank" /></a>
   </p> 
