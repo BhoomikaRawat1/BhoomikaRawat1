@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bhoomika Rawat
 - 👀 I’m interested in frontend
 - 🌱 I’m currently learning Java, HTML, CSS, JS
-- 📫 How to reach me- br2227469@gmail.com
+- 📫 How to reach me-bhumirawat643@gmail.com
 - ⚡ Fun fact: Learn easy and quick response.
 -  ## Connect with me 👇
 <p float="left">
