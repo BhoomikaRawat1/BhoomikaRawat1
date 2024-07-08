@@ -8,6 +8,10 @@
     <a href="https://www.linkedin.com/in/bhoomi-rawat-a04b85301/" title="Direct to LinkedIn" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   </p>
+  <p float="left">
+  <a href="https://www.hackerrank.com/profile/bhumirawat643/" title="Direct to hackerrank" target="_blank">
+     <img src="https://img.shields.io/badge/hackerrank-0077B5?style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank" /></a>
+  </p> 
    <details>
   <summary><b>⚡ Github Status </b></summary>
 <img height="118em" src="https://github-readme-stats.vercel.app/api?username=BhoomikaRawat1&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="BhoomikaRawat1" />
