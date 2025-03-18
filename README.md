@@ -5,7 +5,7 @@
 - ⚡ Fun fact: Learn easy and quick response.
 -  ## Connect with me 👇
 <p float="left">
-    <a href="https://www.linkedin.com/in/bhoomi-rawat-a04b85301/" title="Direct to LinkedIn" target="_blank">
+    <a href="https://www.linkedin.com/in/bhoomika-rawat-80654b356/" title="Direct to LinkedIn" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   </p>
   <p float="left">
